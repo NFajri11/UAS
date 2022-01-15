@@ -7,9 +7,9 @@ while True:
 
     # EXIT PROGRAM
     if c.lower() == 'k':
-        print(".:TERIMAKASIH TELAH MENGGUNAKAN PROGRAM INI:.\n"
-              "               Eef Saepulloh                 \n"
-              "                 TI.19.D.2.                 ")
+        print(".:TERIMAKASIH SUDAH MEMERIKSA JAWABAN SAYA:.\n"
+              "              * NURUL FAJRI *                \n"
+              "               ~ TI.21.C.1 ~                 ")
         ext = input("\nPress ENTER to exit")
         if ext == '':
             break
